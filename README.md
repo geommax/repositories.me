@@ -2,7 +2,7 @@
 
 ## Commercial Projects (Private Repo)
 
-- https://github.com/geommax/ison_face ( Productions )
+- https://github.com/geommax/ison_face ( Face Detection, Vector Embeddings, Similarity Search )
 - https://github.com/geommax/deepblue.ai ( LLMs, VLMs Playground flutter desktop app with Google API - OK )
 - https://github.com/geommax/isom_paperworks ( deepblueailab's ison.ai )
 - https://github.com/geommax/untitled ( QT Cli/Svr Karaoke System )
