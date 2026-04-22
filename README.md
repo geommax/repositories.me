@@ -1,6 +1,6 @@
 # repositories.me
 
-## Commercial Projects
+## Commercial Projects (Private Repo)
 
 - https://github.com/geommax/ison_face ( Productions )
 - https://github.com/geommax/deepblue.ai ( LLMs, VLMs Playground flutter desktop app with Google API - OK )
@@ -8,7 +8,7 @@
 - https://github.com/geommax/untitled ( QT Cli/Svr Karaoke System )
 - 
 
-## For Education & Classroom
+## For Education & Classroom (Public Repo)
 
 - https://github.com/geommax/machinelearning.ai ( NC Dev )
 - https://github.com/geommax/cccpp.io ( C, C++, Threading Exercise )
@@ -20,20 +20,20 @@
 - https://github.com/geommax/my-fullstack-project ( FullStack System Class )
 - https://github.com/geommax/qt-growth-calc ( FullStack System Class )
 
-## For Research & Developments
+## For Research & Developments (Private Repo)
 
 - https://github.com/geommax/ai ( ai -> vision, llms, speech, agentic )
 - https://github.com/geommax/vision.ai ( Computer Vision Special )
 - https://github.com/geommax/sts.ai ( Speech To Speech Web Projects )
 
 
-## Office Apps
+## Office Apps (Public Github Websites)
 
 - https://github.com/geommax/romapps.github.io (apps.romdynamics.com)
 - https://github.com/geommax/deepblue.github.io (deepblue.romdynamics.com)
 - https://github.com/geommax/geommax.github.io (romdynamics.com) main web page
 
-## Hobby
+## Hobby (Public)
 
 - https://github.com/geommax/hyprland_waybar_config ( For Arch Linux )
 - https://github.com/geommax/install.arch.io ( Arch Installation ReadMe )
