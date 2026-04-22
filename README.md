@@ -24,7 +24,7 @@
 - https://github.com/geommax/my-fullstack-project ( FullStack System Class )
 - https://github.com/geommax/qt-growth-calc ( FullStack System Class )
 - https://github.com/geommax/linux.sys.administration ( RedHat Learning Resources )
-- https://github.com/geommax/maths
+- https://github.com/geommax/maths ( Algebra, Calculus )
 - https://github.com/geommax/embedded.linux.io ( Privated for Confidentials Docs )
 - https://github.com/geommax/rtos.github.io - ( Realtime Operating System on Cortex M4 )
 - https://github.com/geommax/flutter.embedded.io - ( Flutter ELinux )
