@@ -1,5 +1,9 @@
 # repositories.me
 
+## Knowledge Sharing Slides (Private Repo)
+
+- https://github.com/geommax/docs (Slides, Docs, Notes)
+
 ## Commercial Projects (Private Repo)
 
 - https://github.com/geommax/ison_face ( Face Detection, Vector Embeddings, Similarity Search )
