@@ -49,6 +49,7 @@
 - https://github.com/geommax/romapps.github.io (apps.romdynamics.com)
 - https://github.com/geommax/deepblue.github.io (deepblue.romdynamics.com)
 - https://github.com/geommax/geommax.github.io (romdynamics.com) main web page
+- https://github.com/geommax/romdynamics_bot.git (romdynamics telegram bot)
 
 ## Hobby (Public)
 
