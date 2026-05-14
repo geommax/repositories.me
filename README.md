@@ -35,6 +35,7 @@
 - https://github.com/geommax/comm_ipv4_ipv6 - ( IP Addressing, OSI 7 Layers )
 - https://github.com/geommax/face.detect.control.pi ( University Projects can be used for anyone )
 - https://github.com/geommax/linux.mm.reader ( For Linux Students )
+- https://github.com/geommax/computervision.github.io ( Computer Vision Books )
 
 ## For Research & Developments (Private Repo)
 
